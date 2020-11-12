@@ -1,3 +1,7 @@
+/* Daniel Lopez Quintero 
+    18401150
+*/
+
 import java.awt.Color;
 import java.awt.event.FocusEvent;
 import java.awt.event.FocusListener;
